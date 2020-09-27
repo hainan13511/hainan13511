@@ -3,7 +3,7 @@
 ### 你好，世界 👋
 
 - :orange_book: Focusing on Java & Python
-
+- 🌱 I’m currently learning Python
 
 <!--
 **hainan13511/hainan13511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
